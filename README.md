@@ -8,8 +8,3 @@ NIM GENAP
    Bilangan prima 1 sd 100 adalah ...
    Bilangan komposit 1 sd 100 adalah ...
 3. Buatlah method prosedur atau fungsi algoritma dalam bahasa Java, menulis sebuah program yang akan mencetak berbagai output sebagai berikut, tergantung nilai N yang dibaca. N dapat berharga antara 1 s.d. 1000:
-   N = 4
-   *
-   **
-   ***
-   ****
