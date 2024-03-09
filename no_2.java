@@ -39,7 +39,7 @@ public class no_2 {
         System.out.print("Masukkan batas akhir: ");
         int batasAkhir = userInput.nextInt();
         
-        if(batasAwal >= 1 && batasAkhir <= 100){
+        if(batasAwal >= 1 && batasAkhir <= 100 && batasAwal < batasAkhir){
             hasil(batasAwal, batasAkhir);
         }else{
             System.out.println("Batasan yang Anda Masukkan Tidak Dapat Diproses");
